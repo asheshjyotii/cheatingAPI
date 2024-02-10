@@ -1,0 +1,8 @@
+```python
+# Create a tuple with user input
+user_input = input("Enter values separated by commas: ")
+my_tuple = tuple(user_input.split(","))
+
+# Print the tuple
+print(my_tuple)
+```
