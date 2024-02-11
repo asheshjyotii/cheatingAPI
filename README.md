@@ -20,7 +20,7 @@ Verification....
 
 Use...
  
-  + Linux : `python3 -c "import requests; response = requests.get('http://clumsycoder01.sbs/fibonacci with user input'); open('ashesh.txt', 'wb').write(response.content)" `
+  + Linux : `python3 -c "import requests; response = requests.get('http://cheat.clumsycoder01.sbs/fibonacci with user input'); open('ashesh.txt', 'wb').write(response.content)" `
   + Windows : ` `
 
     + replace `fibonacci with user input` with description of what code you want to generate.
